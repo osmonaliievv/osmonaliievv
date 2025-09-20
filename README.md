@@ -1,10 +1,10 @@
-# Привет! Я Адилнур 👋
+# Hello! I'm Adilnur 👋
 
 ---
 
 ### **Full-Stack Developer**
 
-Увлечённый Full-Stack разработчик, создаю современные, отзывчивые веб-приложения, ориентированные на качественный пользовательский опыт и надёжный бэкенд-функционал.
+A passionate Full-Stack Developer, building modern, responsive web applications focused on delivering an excellent user experience and robust backend functionality.
 
 * 🌍  I'm based in 🇰🇬 Bishkek, Kyrgyzstan
 * 🖥️ See my work on my GitHub repositories.
