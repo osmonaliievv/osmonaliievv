@@ -5,7 +5,7 @@ A passionate Full-Stack Developer, building modern, responsive web applications 
 
 * 🌍  I'm based in 🇰🇬 Bishkek, Kyrgyzstan
 * 🖥️ See my work on my GitHub repositories.
-* ✉️  You can contact me at [osmonaliievv@gmail.com](mailto:osmonaliievv@gmail.com)
+* ✉️  You can contact me at  osmonaliievv@gmail.com
 * 📞  You can call me at +996 706 06 43 06
 * 📱  You can find me on Telegram: @osmonaliievv
 * 🧠 **I'm currently interested in:** Building scalable web applications with a focus on clean architecture and efficient API design.
