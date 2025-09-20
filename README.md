@@ -21,13 +21,13 @@ Frontend and Backend Developer with proven ability to design responsive web appl
 ### Socials
 
 <p>
-  <a href="https://github.com/osmonaliievv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Adilnur1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub">
   </a>
-  <a href="https://t.me/osmonaliievv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://t.me/adil1228" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" title="Telegram" alt="Telegram">
   </a>
   <a href="mailto:osmonaliievv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail">
   </a>
 </p>
