@@ -1,7 +1,4 @@
 # Hello! I'm Adilnur 👋
-
----
-
 ### **Full-Stack Developer**
 
 A passionate Full-Stack Developer, building modern, responsive web applications focused on delivering an excellent user experience and robust backend functionality.
