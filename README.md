@@ -25,3 +25,4 @@ Frontend and Backend Developer with proven ability to design responsive web appl
 * 🚀 **CandyStore:** [https://candystore-pearl.vercel.app](https://candystore-pearl.vercel.app)
 * 🎭 **TeatrMarket:** [https://teatreshoustore.vercel.app/](https://teatreshoustore.vercel.app/)
 * ✨ **MysteryShack:** [https://ezotericastore.vercel.app/](https://ezotericastore.vercel.app/)
+* 🌄 **Ornok.kg:** [https://kyrgyzornaments.vercel.app/](https://kyrgyzornaments.vercel.app/)
