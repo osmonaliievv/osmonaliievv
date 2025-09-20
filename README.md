@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adilnur
-================================================================================================================================
+# Привет! Я Адилнур 👋
 
-Full-Stack Developer
---------------------
+---
 
-Frontend and Backend Developer with proven ability to design responsive web applications, implement complex features, and deliver high-quality solutions using modern technologies
+### **Full-Stack Developer**
+
+Увлечённый Full-Stack разработчик, создаю современные, отзывчивые веб-приложения, ориентированные на качественный пользовательский опыт и надёжный бэкенд-функционал.
 
 * 🌍  I'm based in 🇰🇬 Bishkek, Kyrgyzstan
 * 🖥️ See my work on my GitHub repositories.
