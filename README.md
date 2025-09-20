@@ -7,9 +7,9 @@ Full-Stack Developer
 Frontend and Backend Developer with proven ability to design responsive web applications, implement complex features, and deliver high-quality solutions using modern technologies
 
 * 🌍  I'm based in 🇰🇬 Bishkek, Kyrgyzstan
-* 🖥️  See my portfolio at [My projects are available directly in my repositories below.](//https://github.com/osmonaliievv)
+* 🖥️  See my portfolio at [My projects are available directly in my repositories below.]
 * ✉️  You can contact me at [osmonaliievv@gmail.com](mailto:osmonaliievv@gmail.com)
-* 🚀  I'm currently working on [CandyStore](//https://candystore-pearl.vercel.app)
+* 🚀  I'm currently working on [CandyStore](https://candystore-pearl.vercel.app)
 * 🧠  I'm currently learning Expanding my knowledge in Python, Django, and Django Rest Framework to build robust backend systems.
 * 👥  I'm looking to collaborate on I'm open to collaborating on: interesting full-stack projects to build complete and scalable web applications from scratch.
 * 💬  Ask me about Always ready to take on new challenges and contribute to successful projects.
@@ -21,10 +21,14 @@ Frontend and Backend Developer with proven ability to design responsive web appl
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/osmonaliievv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/adilnur-osmonaliev-57025a2aa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/osmonaliievv"><img src="https://github-readme-stats.vercel.app/api?username=osmonaliievv&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&show_icons=true" alt="osmonaliievv's GitHub stats" /></a>
-
-<a href="https://github.com/osmonaliievv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmonaliievv&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)
