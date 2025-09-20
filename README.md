@@ -15,7 +15,7 @@ Frontend and Backend Developer with proven ability to design responsive web appl
 * 👥  I'm looking to collaborate on I'm open to collaborating on: interesting full-stack projects to build complete and scalable web applications from scratch.
 * 💬  Ask me about Always ready to take on new challenges and contribute to successful projects.
 
----
+--------------------
 ## My Skill Set
 
 ### Frontend
@@ -46,7 +46,7 @@ Frontend and Backend Developer with proven ability to design responsive web appl
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
----
+--------------------
 ### My Projects
 
 * 🚀 **CandyStore:** [https://candystore-pearl.vercel.app](https://candystore-pearl.vercel.app)
