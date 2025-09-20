@@ -11,9 +11,9 @@ A passionate Full-Stack Developer, building modern, responsive web applications 
 * ✉️  You can contact me at [osmonaliievv@gmail.com](mailto:osmonaliievv@gmail.com)
 * 📞  You can call me at +996 706 06 43 06
 * 📱  You can find me on Telegram: @osmonaliievv
-* 🧠  I'm currently learning Expanding my knowledge in Python, Django, and Django Rest Framework to build robust backend systems.
-* 👥  I'm looking to collaborate on I'm open to collaborating on: interesting full-stack projects to build complete and scalable web applications from scratch.
-* 💬  Ask me about Always ready to take on new challenges and contribute to successful projects.
+* 🧠 **I'm currently interested in:** Building scalable web applications with a focus on clean architecture and efficient API design.
+* 🤝 **I'm open to collaborating on:** Full-stack projects that solve real-world problems and contribute to the open-source community.
+* 💬 **Ask me about:** JavaScript, Python, web development, or anything related to building great user experiences.
 
 --------------------
 ## My Skill Set
