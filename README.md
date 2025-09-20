@@ -7,9 +7,9 @@ Full-Stack Developer
 Frontend and Backend Developer with proven ability to design responsive web applications, implement complex features, and deliver high-quality solutions using modern technologies
 
 * 🌍  I'm based in 🇰🇬 Bishkek, Kyrgyzstan
-* 🖥️  See my portfolio at [My projects are available directly in my repositories below.](http://https://github.com/osmonaliievv)
+* 🖥️  See my portfolio at [My projects are available directly in my repositories below.](//https://github.com/osmonaliievv)
 * ✉️  You can contact me at [osmonaliievv@gmail.com](mailto:osmonaliievv@gmail.com)
-* 🚀  I'm currently working on [CandyStore](http://https://candystore-pearl.vercel.app)
+* 🚀  I'm currently working on [CandyStore](//https://candystore-pearl.vercel.app)
 * 🧠  I'm currently learning Expanding my knowledge in Python, Django, and Django Rest Framework to build robust backend systems.
 * 👥  I'm looking to collaborate on I'm open to collaborating on: interesting full-stack projects to build complete and scalable web applications from scratch.
 * 💬  Ask me about Always ready to take on new challenges and contribute to successful projects.
